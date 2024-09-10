@@ -59,3 +59,6 @@ The program utilizes C++ exception handling (try-catch) to handle errors related
 Constants
 MAX_SIZE: The maximum size of the dynamic array, set to 100.
 
+![image](https://github.com/user-attachments/assets/25b5bd50-c6c2-495e-b872-1902cb666e04)
+
+
